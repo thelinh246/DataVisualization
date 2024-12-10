@@ -1,0 +1,380 @@
+User,Search Pattern,Search Type,Start End,Start Time,End Time,Result Count,TheSaurus
+123,perfect-forward-backward,search box,0,2017-12-28 18:41:39 +0900,2017-12-28 18:41:39 +0900,0,0
+123,perfect-forward-backward,search box,0,2017-12-28 18:52:54 +0900,2017-12-28 18:52:54 +0900,0,0
+123,perfect-forward-backward,search box,1,2017-12-28 18:52:54 +0900,2017-12-28 18:52:55 +0900,38,1
+876,perfect-forward-backward,search box,0,2017-12-28 18:53:28 +0900,2017-12-28 18:53:28 +0900,0,0
+876,perfect-forward-backward,search box,0,2017-12-28 18:53:29 +0900,2017-12-28 18:53:29 +0900,0,0
+876,perfect-forward-backward,search box,1,2017-12-28 18:53:29 +0900,2017-12-28 18:53:40 +0900,289,1
+876,perfect-forward-backward,search box,1,2017-12-28 18:53:29 +0900,2017-12-28 18:53:41 +0900,289,1
+123,perfect-forward-backward,search box,0,2017-12-28 19:20:40 +0900,2017-12-28 19:20:40 +0900,0,0
+123,perfect-forward-backward,search box,1,2017-12-28 19:20:40 +0900,2017-12-28 19:20:52 +0900,965,0
+2124064,perfect-forward-backward,search box,0,2017-12-28 19:21:07 +0900,2017-12-28 19:21:07 +0900,0,0
+2124064,perfect-forward-backward,search box,1,2017-12-28 19:21:07 +0900,2017-12-28 19:21:08 +0900,21,1
+2124064,perfect-forward-backward,search box,0,2017-12-28 19:21:12 +0900,2017-12-28 19:21:12 +0900,0,0
+2124064,perfect-forward-backward,search box,1,2017-12-28 19:21:12 +0900,2017-12-28 19:21:25 +0900,965,0
+2124064,perfect-forward-backward,Narrow Term,0,2017-12-28 19:23:04 +0900,2017-12-28 19:23:04 +0900,0,0
+2124064,perfect-forward-backward,Narrow Term,1,2017-12-28 19:23:04 +0900,2017-12-28 19:23:06 +0900,71,0
+2124064,perfect-forward-backward,search box,0,2017-12-28 19:24:45 +0900,2017-12-28 19:24:45 +0900,0,0
+2124064,perfect-forward-backward,search box,1,2017-12-28 19:24:45 +0900,2017-12-28 19:24:46 +0900,21,1
+2124064,perfect-forward-backward,search box,0,2017-12-28 19:24:53 +0900,2017-12-28 19:24:53 +0900,0,0
+2124064,perfect-forward-backward,search box,1,2017-12-28 19:24:53 +0900,2017-12-28 19:25:00 +0900,450,1
+2124064,perfect-forward-backward,Narrow Term,0,2017-12-28 19:25:27 +0900,2017-12-28 19:25:27 +0900,0,0
+2124064,perfect-forward-backward,Narrow Term,1,2017-12-28 19:25:27 +0900,2017-12-28 19:25:27 +0900,0,0
+2124064,perfect-forward-backward,search box,0,2017-12-28 19:26:04 +0900,2017-12-28 19:26:04 +0900,0,0
+2124064,perfect-forward-backward,search box,1,2017-12-28 19:26:04 +0900,2017-12-28 19:26:11 +0900,375,1
+2124064,perfect-forward-backward,search box,0,2017-12-28 19:30:08 +0900,2017-12-28 19:30:08 +0900,0,0
+2124064,perfect-forward-backward,search box,1,2017-12-28 19:30:08 +0900,2017-12-28 19:30:15 +0900,375,1
+123,perfect-forward-backward,search box,0,2017-12-28 19:35:28 +0900,2017-12-28 19:35:28 +0900,0,0
+123,perfect-forward-backward,search box,1,2017-12-28 19:35:28 +0900,2017-12-28 19:35:29 +0900,21,1
+123,perfect-forward-backward,search box,0,2017-12-28 19:35:40 +0900,2017-12-28 19:35:40 +0900,0,0
+123,perfect-forward-backward,search box,1,2017-12-28 19:35:40 +0900,2017-12-28 19:35:49 +0900,443,1
+123,perfect-forward-backward,search box,0,2017-12-28 19:35:55 +0900,2017-12-28 19:35:55 +0900,0,0
+123,perfect-forward-backward,search box,1,2017-12-28 19:35:55 +0900,2017-12-28 19:36:04 +0900,443,1
+212,perfect-forward-backward,search box,0,2017-12-28 19:37:07 +0900,2017-12-28 19:37:07 +0900,0,0
+212,perfect-forward-backward,search box,1,2017-12-28 19:37:07 +0900,2017-12-28 19:37:16 +0900,443,1
+123,perfect-forward-backward,search box,0,2017-12-28 19:51:07 +0900,2017-12-28 19:51:07 +0900,0,0
+123,perfect-forward-backward,search box,1,2017-12-28 19:51:07 +0900,2017-12-28 19:51:08 +0900,21,1
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:15:09 +0900,2017-12-29 10:15:09 +0900,0,0
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:15:09 +0900,2017-12-29 10:15:16 +0900,450,1
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:15:32 +0900,2017-12-29 10:15:32 +0900,0,0
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:15:32 +0900,2017-12-29 10:15:41 +0900,443,1
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:16:18 +0900,2017-12-29 10:16:18 +0900,0,0
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:16:18 +0900,2017-12-29 10:16:25 +0900,450,1
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:16:42 +0900,2017-12-29 10:16:42 +0900,0,0
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:16:42 +0900,2017-12-29 10:16:51 +0900,443,1
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:18:01 +0900,2017-12-29 10:18:01 +0900,0,0
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:18:01 +0900,2017-12-29 10:18:10 +0900,443,1
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:18:13 +0900,2017-12-29 10:18:13 +0900,0,0
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:18:13 +0900,2017-12-29 10:18:20 +0900,450,1
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:18:48 +0900,2017-12-29 10:18:48 +0900,0,0
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:18:48 +0900,2017-12-29 10:18:56 +0900,450,1
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:31:55 +0900,2017-12-29 10:31:55 +0900,0,0
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:31:55 +0900,2017-12-29 10:32:03 +0900,450,1
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:32:13 +0900,2017-12-29 10:32:13 +0900,0,0
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:32:13 +0900,2017-12-29 10:32:22 +0900,443,1
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:32:48 +0900,2017-12-29 10:32:48 +0900,0,0
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:32:51 +0900,2017-12-29 10:32:51 +0900,0,0
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:32:51 +0900,2017-12-29 10:32:58 +0900,450,1
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:32:51 +0900,2017-12-29 10:33:02 +0900,450,1
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:33:21 +0900,2017-12-29 10:33:21 +0900,0,0
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:33:23 +0900,2017-12-29 10:33:23 +0900,0,0
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:33:23 +0900,2017-12-29 10:33:37 +0900,443,1
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:33:23 +0900,2017-12-29 10:33:39 +0900,443,1
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:34:30 +0900,2017-12-29 10:34:30 +0900,0,0
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:34:31 +0900,2017-12-29 10:34:31 +0900,0,0
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:34:33 +0900,2017-12-29 10:34:33 +0900,0,0
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:34:33 +0900,2017-12-29 10:34:46 +0900,450,1
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:34:33 +0900,2017-12-29 10:34:51 +0900,450,1
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:34:33 +0900,2017-12-29 10:34:51 +0900,450,1
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:35:10 +0900,2017-12-29 10:35:10 +0900,0,0
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:35:13 +0900,2017-12-29 10:35:13 +0900,0,0
+2127797,perfect-forward-backward,search box,0,2017-12-29 10:35:15 +0900,2017-12-29 10:35:15 +0900,0,0
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:35:15 +0900,2017-12-29 10:35:32 +0900,443,1
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:35:15 +0900,2017-12-29 10:35:37 +0900,443,1
+2127797,perfect-forward-backward,search box,1,2017-12-29 10:35:15 +0900,2017-12-29 10:35:39 +0900,443,1
+123,perfect-forward-backward,search box,0,2017-12-29 11:03:32 +0900,2017-12-29 11:03:32 +0900,0,0
+123,perfect-forward-backward,search box,1,2017-12-29 11:03:32 +0900,2017-12-29 11:03:45 +0900,965,0
+2127797,perfect-forward-backward,search box,0,2017-12-29 14:30:11 +0900,2017-12-29 14:30:11 +0900,0,0
+2127797,perfect-forward-backward,search box,1,2017-12-29 14:30:11 +0900,2017-12-29 14:30:11 +0900,0,0
+123,perfect-forward-backward,search box,0,2017-12-29 15:48:30 +0900,2017-12-29 15:48:30 +0900,0,0
+123,perfect-forward-backward,search box,1,2017-12-29 15:48:30 +0900,2017-12-29 15:48:31 +0900,21,1
+123,perfect-forward-backward,search box,0,2017-12-29 15:50:18 +0900,2017-12-29 15:50:18 +0900,0,0
+123,perfect-forward-backward,search box,1,2017-12-29 15:50:18 +0900,2017-12-29 15:50:23 +0900,220,1
+123,perfect-forward-backward,search box,0,2017-12-29 18:11:17 +0900,2017-12-29 18:11:17 +0900,0,0
+123,perfect-forward-backward,search box,1,2017-12-29 18:11:17 +0900,2017-12-29 18:11:18 +0900,21,1
+123,perfect-forward-backward,search box,0,2017-12-29 18:14:36 +0900,2017-12-29 18:14:36 +0900,0,0
+123,perfect-forward-backward,search box,1,2017-12-29 18:14:36 +0900,2017-12-29 18:14:49 +0900,965,0
+123,perfect-forward-backward,search box,0,2017-12-29 18:15:51 +0900,2017-12-29 18:15:51 +0900,0,0
+123,perfect-forward-backward,search box,1,2017-12-29 18:15:51 +0900,2017-12-29 18:16:04 +0900,965,0
+123,perfect-forward-backward,search box,0,2018-01-03 18:24:55 +0900,2018-01-03 18:24:55 +0900,0,0
+123,perfect-forward-backward,search box,1,2018-01-03 18:24:55 +0900,2018-01-03 18:24:56 +0900,21,1
+123,perfect-forward-backward,search box,0,2018-01-04 15:37:55 +0900,2018-01-04 15:37:55 +0900,0,0
+123,perfect-forward-backward,search box,1,2018-01-04 15:37:55 +0900,2018-01-04 15:38:05 +0900,443,1
+123,perfect-forward-backward,search box,0,2018-01-04 16:23:47 +0900,2018-01-04 16:23:47 +0900,0,0
+123,perfect-forward-backward,search box,1,2018-01-04 16:23:47 +0900,2018-01-04 16:23:48 +0900,21,1
+123,perfect-forward-backward,search box,0,2018-01-05 12:59:13 +0900,2018-01-05 12:59:13 +0900,0,0
+123,perfect-forward-backward,search box,1,2018-01-05 12:59:13 +0900,2018-01-05 12:59:14 +0900,21,1
+123,perfect-forward-backward,search box,0,2018-01-05 15:33:43 +0900,2018-01-05 15:33:43 +0900,0,0
+123,perfect-forward-backward,search box,1,2018-01-05 15:33:43 +0900,2018-01-05 15:33:53 +0900,443,1
+123,perfect-forward-backward,search box,0,2018-01-05 15:34:03 +0900,2018-01-05 15:34:03 +0900,0,0
+123,perfect-forward-backward,search box,1,2018-01-05 15:34:03 +0900,2018-01-05 15:34:12 +0900,443,1
+2232594,perfect-forward-backward,search box,0,2018-01-09 09:33:59 +0900,2018-01-09 09:33:59 +0900,0,0
+2232594,perfect-forward-backward,search box,1,2018-01-09 09:33:59 +0900,2018-01-09 09:34:02 +0900,107,1
+1231545,perfect-forward-backward,search box,0,2018-01-10 08:33:11 +0900,2018-01-10 08:33:11 +0900,0,0
+1231545,perfect-forward-backward,search box,1,2018-01-10 08:33:11 +0900,2018-01-10 08:33:13 +0900,21,1
+1234567,perfect-forward-backward,search box,0,2018-01-10 10:26:26 +0900,2018-01-10 10:26:26 +0900,0,0
+1234567,perfect-forward-backward,search box,1,2018-01-10 10:26:26 +0900,2018-01-10 10:26:27 +0900,21,1
+1234567,grep,search box,0,2018-01-10 10:29:22 +0900,2018-01-10 10:29:22 +0900,0,0
+1234567,grep,search box,1,2018-01-10 10:29:22 +0900,2018-01-10 10:29:22 +0900,24,1
+1234,perfect-forward-backward,search box,0,2018-01-10 11:15:44 +0900,2018-01-10 11:15:44 +0900,0,0
+1234,perfect-forward-backward,search box,1,2018-01-10 11:15:44 +0900,2018-01-10 11:15:45 +0900,21,1
+1234,perfect-forward-backward,search box,0,2018-01-10 11:15:52 +0900,2018-01-10 11:15:52 +0900,0,0
+1234,perfect-forward-backward,search box,1,2018-01-10 11:15:52 +0900,2018-01-10 11:15:53 +0900,21,1
+1234567,perfect-forward-backward,search box,0,2018-01-10 11:41:38 +0900,2018-01-10 11:41:38 +0900,0,0
+1234567,perfect-forward-backward,search box,1,2018-01-10 11:41:38 +0900,2018-01-10 11:41:39 +0900,21,1
+123456,perfect-forward-backward,search box,0,2018-01-10 12:01:52 +0900,2018-01-10 12:01:52 +0900,0,0
+123456,perfect-forward-backward,search box,1,2018-01-10 12:01:52 +0900,2018-01-10 12:01:55 +0900,107,1
+12345,perfect-forward-backward,search box,0,2018-01-10 12:10:09 +0900,2018-01-10 12:10:09 +0900,0,0
+12345,perfect-forward-backward,search box,1,2018-01-10 12:10:09 +0900,2018-01-10 12:10:19 +0900,443,1
+2124064,perfect-forward-backward,search box,0,2018-01-10 13:53:44 +0900,2018-01-10 13:53:44 +0900,0,0
+2124064,perfect-forward-backward,search box,1,2018-01-10 13:53:44 +0900,2018-01-10 13:53:46 +0900,21,1
+2124064,perfect-forward-backward,search box,0,2018-01-10 13:53:55 +0900,2018-01-10 13:53:55 +0900,0,0
+2124064,perfect-forward-backward,search box,1,2018-01-10 13:53:55 +0900,2018-01-10 13:53:55 +0900,1,0
+123456,perfect-forward-backward,search box,0,2018-01-10 16:29:21 +0900,2018-01-10 16:29:21 +0900,0,0
+123456,perfect-forward-backward,search box,1,2018-01-10 16:29:21 +0900,2018-01-10 16:29:24 +0900,81,1
+123456,perfect-forward-backward,search box,0,2018-01-10 16:29:51 +0900,2018-01-10 16:29:51 +0900,0,0
+123456,perfect-forward-backward,search box,1,2018-01-10 16:29:51 +0900,2018-01-10 16:29:51 +0900,0,0
+123456,grep,search box,0,2018-01-10 16:29:54 +0900,2018-01-10 16:29:54 +0900,0,0
+123456,grep,search box,1,2018-01-10 16:29:54 +0900,2018-01-10 16:29:54 +0900,0,0
+1234567,perfect-forward-backward,search box,0,2018-01-10 16:40:05 +0900,2018-01-10 16:40:05 +0900,0,0
+1234567,perfect-forward-backward,search box,1,2018-01-10 16:40:05 +0900,2018-01-10 16:40:15 +0900,443,1
+2127797,perfect-forward-backward,search box,0,2018-01-10 17:05:31 +0900,2018-01-10 17:05:31 +0900,0,0
+2127797,perfect-forward-backward,search box,1,2018-01-10 17:05:31 +0900,2018-01-10 17:05:38 +0900,279,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 08:49:30 +0900,2018-01-11 08:49:30 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 08:49:30 +0900,2018-01-11 08:49:34 +0900,21,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 10:04:48 +0900,2018-01-11 10:04:48 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 10:04:48 +0900,2018-01-11 10:04:48 +0900,0,0
+mizutani,grep,search box,0,2018-01-11 10:04:51 +0900,2018-01-11 10:04:51 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 10:04:51 +0900,2018-01-11 10:04:51 +0900,0,0
+mizutani,grep,search box,0,2018-01-11 10:05:16 +0900,2018-01-11 10:05:16 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 10:05:16 +0900,2018-01-11 10:05:16 +0900,0,0
+mizutani,grep,search box,0,2018-01-11 10:05:32 +0900,2018-01-11 10:05:32 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 10:05:32 +0900,2018-01-11 10:05:32 +0900,4,1
+mizutani,grep,Broader Term,0,2018-01-11 10:05:42 +0900,2018-01-11 10:05:42 +0900,0,0
+mizutani,grep,Broader Term,1,2018-01-11 10:05:42 +0900,2018-01-11 10:05:43 +0900,5,1
+mizutani,grep,Narrow Term,0,2018-01-11 10:05:53 +0900,2018-01-11 10:05:53 +0900,0,0
+mizutani,grep,Narrow Term,1,2018-01-11 10:05:53 +0900,2018-01-11 10:05:53 +0900,1,1
+mizutani,grep,Broader Term,0,2018-01-11 10:05:59 +0900,2018-01-11 10:05:59 +0900,0,0
+mizutani,grep,Broader Term,1,2018-01-11 10:05:59 +0900,2018-01-11 10:05:59 +0900,5,1
+mizutani,grep,Synonym,0,2018-01-11 10:06:06 +0900,2018-01-11 10:06:06 +0900,0,0
+mizutani,grep,Synonym,1,2018-01-11 10:06:06 +0900,2018-01-11 10:06:07 +0900,0,1
+mizutani,grep,Synonym,0,2018-01-11 10:06:08 +0900,2018-01-11 10:06:08 +0900,0,0
+mizutani,grep,Synonym,1,2018-01-11 10:06:08 +0900,2018-01-11 10:06:09 +0900,15,1
+mizutani,grep,Broader Term,0,2018-01-11 10:06:20 +0900,2018-01-11 10:06:20 +0900,0,0
+mizutani,grep,Broader Term,1,2018-01-11 10:06:20 +0900,2018-01-11 10:06:22 +0900,98,0
+mizutani,grep,Narrow Term,0,2018-01-11 10:06:32 +0900,2018-01-11 10:06:32 +0900,0,0
+mizutani,grep,Narrow Term,1,2018-01-11 10:06:32 +0900,2018-01-11 10:06:32 +0900,0,0
+mizutani,grep,Narrow Term,0,2018-01-11 10:06:34 +0900,2018-01-11 10:06:34 +0900,0,0
+mizutani,grep,Narrow Term,1,2018-01-11 10:06:34 +0900,2018-01-11 10:06:34 +0900,3,1
+mizutani,grep,Broader Term,0,2018-01-11 10:06:45 +0900,2018-01-11 10:06:45 +0900,0,0
+mizutani,grep,Broader Term,1,2018-01-11 10:06:45 +0900,2018-01-11 10:06:45 +0900,0,0
+mizutani,grep,Broader Term,0,2018-01-11 10:06:47 +0900,2018-01-11 10:06:47 +0900,0,0
+mizutani,grep,Broader Term,1,2018-01-11 10:06:47 +0900,2018-01-11 10:06:48 +0900,98,0
+mizutani,grep,Narrow Term,0,2018-01-11 10:06:53 +0900,2018-01-11 10:06:53 +0900,0,0
+mizutani,grep,Narrow Term,1,2018-01-11 10:06:53 +0900,2018-01-11 10:06:54 +0900,5,1
+mizutani,grep,Narrow Term,0,2018-01-11 10:07:01 +0900,2018-01-11 10:07:01 +0900,0,0
+mizutani,grep,Narrow Term,1,2018-01-11 10:07:01 +0900,2018-01-11 10:07:01 +0900,0,1
+mizutani,grep,Narrow Term,0,2018-01-11 10:07:03 +0900,2018-01-11 10:07:03 +0900,0,0
+mizutani,grep,Narrow Term,1,2018-01-11 10:07:03 +0900,2018-01-11 10:07:03 +0900,0,1
+mizutani,grep,Broader Term,0,2018-01-11 10:07:07 +0900,2018-01-11 10:07:07 +0900,0,0
+mizutani,grep,Broader Term,1,2018-01-11 10:07:07 +0900,2018-01-11 10:07:07 +0900,5,1
+mizutani,grep,Narrow Term,0,2018-01-11 10:07:18 +0900,2018-01-11 10:07:18 +0900,0,0
+mizutani,grep,Narrow Term,1,2018-01-11 10:07:18 +0900,2018-01-11 10:07:19 +0900,0,1
+mizutani,grep,search box,0,2018-01-11 10:07:44 +0900,2018-01-11 10:07:44 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 10:07:44 +0900,2018-01-11 10:07:44 +0900,3,0
+mizutani,grep,search box,0,2018-01-11 10:14:14 +0900,2018-01-11 10:14:14 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 10:14:14 +0900,2018-01-11 10:14:15 +0900,24,1
+mizutani,grep,search box,0,2018-01-11 11:44:29 +0900,2018-01-11 11:44:29 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 11:44:29 +0900,2018-01-11 11:44:31 +0900,88,1
+mizutani,grep,search box,0,2018-01-11 11:45:26 +0900,2018-01-11 11:45:26 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 11:45:26 +0900,2018-01-11 11:45:31 +0900,360,1
+mizutani,grep,search box,0,2018-01-11 11:46:46 +0900,2018-01-11 11:46:46 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 11:46:46 +0900,2018-01-11 11:46:46 +0900,23,1
+mizutani,grep,Synonym,0,2018-01-11 11:46:55 +0900,2018-01-11 11:46:55 +0900,0,0
+mizutani,grep,Synonym,1,2018-01-11 11:46:55 +0900,2018-01-11 11:46:57 +0900,88,1
+mizutani,grep,search box,0,2018-01-11 13:00:20 +0900,2018-01-11 13:00:20 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 13:00:20 +0900,2018-01-11 13:00:20 +0900,3,0
+mizutani,grep,search box,0,2018-01-11 13:00:40 +0900,2018-01-11 13:00:40 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 13:00:40 +0900,2018-01-11 13:00:42 +0900,89,1
+mizutani,grep,Narrow Term,0,2018-01-11 13:01:18 +0900,2018-01-11 13:01:18 +0900,0,0
+mizutani,grep,Narrow Term,1,2018-01-11 13:01:18 +0900,2018-01-11 13:01:18 +0900,0,0
+mizutani,grep,Broader Term,0,2018-01-11 13:01:24 +0900,2018-01-11 13:01:24 +0900,0,0
+mizutani,grep,Broader Term,1,2018-01-11 13:01:24 +0900,2018-01-11 13:01:24 +0900,0,1
+mizutani,grep,search box,0,2018-01-11 13:01:28 +0900,2018-01-11 13:01:28 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 13:01:28 +0900,2018-01-11 13:01:30 +0900,89,1
+mizutani,grep,Synonym,0,2018-01-11 13:01:36 +0900,2018-01-11 13:01:36 +0900,0,0
+mizutani,grep,Synonym,1,2018-01-11 13:01:36 +0900,2018-01-11 13:01:37 +0900,6,1
+mizutani,grep,Synonym,0,2018-01-11 13:02:35 +0900,2018-01-11 13:02:35 +0900,0,0
+mizutani,grep,Synonym,1,2018-01-11 13:02:35 +0900,2018-01-11 13:02:36 +0900,2,1
+mizutani,grep,Synonym,0,2018-01-11 13:02:52 +0900,2018-01-11 13:02:52 +0900,0,0
+mizutani,grep,Synonym,1,2018-01-11 13:02:52 +0900,2018-01-11 13:02:55 +0900,89,1
+mizutani,grep,Broader Term,0,2018-01-11 13:03:33 +0900,2018-01-11 13:03:33 +0900,0,0
+mizutani,grep,Broader Term,1,2018-01-11 13:03:33 +0900,2018-01-11 13:03:33 +0900,0,1
+mizutani,grep,search box,0,2018-01-11 13:03:44 +0900,2018-01-11 13:03:44 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 13:03:44 +0900,2018-01-11 13:03:46 +0900,52,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 13:04:58 +0900,2018-01-11 13:04:58 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 13:04:58 +0900,2018-01-11 13:04:58 +0900,0,0
+mizutani,grep,search box,0,2018-01-11 13:05:03 +0900,2018-01-11 13:05:03 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 13:05:03 +0900,2018-01-11 13:05:03 +0900,0,0
+mizutani,grep,search box,0,2018-01-11 13:05:06 +0900,2018-01-11 13:05:06 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 13:05:06 +0900,2018-01-11 13:05:37 +0900,1902,1
+mizutani,grep,search box,0,2018-01-11 13:06:10 +0900,2018-01-11 13:06:10 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 13:06:10 +0900,2018-01-11 13:06:19 +0900,344,1
+mizutani,grep,search box,0,2018-01-11 13:07:27 +0900,2018-01-11 13:07:27 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 13:07:27 +0900,2018-01-11 13:07:28 +0900,24,1
+mizutani,grep,search box,0,2018-01-11 13:08:13 +0900,2018-01-11 13:08:13 +0900,0,0
+mizutani,grep,search box,1,2018-01-11 13:08:13 +0900,2018-01-11 13:08:15 +0900,113,1
+mizutani,grep,Narrow Term,0,2018-01-11 13:09:12 +0900,2018-01-11 13:09:12 +0900,0,0
+mizutani,grep,Narrow Term,1,2018-01-11 13:09:12 +0900,2018-01-11 13:09:12 +0900,0,1
+mizutani,grep,Broader Term,0,2018-01-11 13:09:15 +0900,2018-01-11 13:09:15 +0900,0,0
+mizutani,grep,Broader Term,1,2018-01-11 13:09:15 +0900,2018-01-11 13:09:17 +0900,113,1
+mizutani,grep,Narrow Term,0,2018-01-11 13:09:21 +0900,2018-01-11 13:09:21 +0900,0,0
+mizutani,grep,Narrow Term,1,2018-01-11 13:09:21 +0900,2018-01-11 13:09:22 +0900,18,1
+ftf,perfect-forward-backward,search box,0,2018-01-11 13:38:40 +0900,2018-01-11 13:38:40 +0900,0,0
+ftf,perfect-forward-backward,search box,1,2018-01-11 13:38:40 +0900,2018-01-11 13:38:41 +0900,2,0
+mizutani,perfect-forward-backward,search box,0,2018-01-11 13:55:32 +0900,2018-01-11 13:55:32 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 13:55:32 +0900,2018-01-11 13:55:33 +0900,3,0
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:04:16 +0900,2018-01-11 15:04:16 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:04:16 +0900,2018-01-11 15:04:17 +0900,21,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:17:19 +0900,2018-01-11 15:17:19 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:17:19 +0900,2018-01-11 15:17:19 +0900,12,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:17:49 +0900,2018-01-11 15:17:49 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:17:49 +0900,2018-01-11 15:17:50 +0900,21,1
+mizutani,perfect-forward-backward,Broader Term,0,2018-01-11 15:18:39 +0900,2018-01-11 15:18:39 +0900,0,0
+mizutani,perfect-forward-backward,Broader Term,1,2018-01-11 15:18:39 +0900,2018-01-11 15:18:48 +0900,443,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:23:24 +0900,2018-01-11 15:23:24 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:23:24 +0900,2018-01-11 15:23:25 +0900,15,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:23:55 +0900,2018-01-11 15:23:55 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:23:55 +0900,2018-01-11 15:24:01 +0900,439,0
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:24:31 +0900,2018-01-11 15:24:31 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:24:31 +0900,2018-01-11 15:24:32 +0900,21,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:24:57 +0900,2018-01-11 15:24:57 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:24:57 +0900,2018-01-11 15:24:58 +0900,4,0
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:25:27 +0900,2018-01-11 15:25:27 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:25:27 +0900,2018-01-11 15:25:28 +0900,21,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:25:33 +0900,2018-01-11 15:25:33 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:25:33 +0900,2018-01-11 15:25:36 +0900,107,1
+mizutani,perfect-forward-backward,Narrow Term,0,2018-01-11 15:25:46 +0900,2018-01-11 15:25:46 +0900,0,0
+mizutani,perfect-forward-backward,Narrow Term,1,2018-01-11 15:25:46 +0900,2018-01-11 15:25:46 +0900,0,1
+mizutani,perfect-forward-backward,Broader Term,0,2018-01-11 15:25:50 +0900,2018-01-11 15:25:50 +0900,0,0
+mizutani,perfect-forward-backward,Broader Term,1,2018-01-11 15:25:50 +0900,2018-01-11 15:25:53 +0900,107,1
+mizutani,perfect-forward-backward,Narrow Term,0,2018-01-11 15:25:56 +0900,2018-01-11 15:25:56 +0900,0,0
+mizutani,perfect-forward-backward,Narrow Term,1,2018-01-11 15:25:56 +0900,2018-01-11 15:25:57 +0900,18,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:26:28 +0900,2018-01-11 15:26:28 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:26:28 +0900,2018-01-11 15:26:29 +0900,82,1
+mizutani,perfect-forward-backward,Narrow Term,0,2018-01-11 15:26:40 +0900,2018-01-11 15:26:40 +0900,0,0
+mizutani,perfect-forward-backward,Narrow Term,1,2018-01-11 15:26:40 +0900,2018-01-11 15:26:40 +0900,0,0
+mizutani,perfect-forward-backward,Broader Term,0,2018-01-11 15:26:43 +0900,2018-01-11 15:26:43 +0900,0,0
+mizutani,perfect-forward-backward,Broader Term,1,2018-01-11 15:26:43 +0900,2018-01-11 15:26:43 +0900,13,1
+mizutani,perfect-forward-backward,Synonym,0,2018-01-11 15:27:08 +0900,2018-01-11 15:27:08 +0900,0,0
+mizutani,perfect-forward-backward,Synonym,1,2018-01-11 15:27:08 +0900,2018-01-11 15:27:09 +0900,0,1
+mizutani,perfect-forward-backward,Synonym,0,2018-01-11 15:27:10 +0900,2018-01-11 15:27:10 +0900,0,0
+mizutani,perfect-forward-backward,Synonym,1,2018-01-11 15:27:10 +0900,2018-01-11 15:27:11 +0900,0,1
+mizutani,perfect-forward-backward,Synonym,0,2018-01-11 15:27:11 +0900,2018-01-11 15:27:11 +0900,0,0
+mizutani,perfect-forward-backward,Synonym,1,2018-01-11 15:27:11 +0900,2018-01-11 15:27:12 +0900,0,1
+mizutani,perfect-forward-backward,Synonym,0,2018-01-11 15:27:14 +0900,2018-01-11 15:27:14 +0900,0,0
+mizutani,perfect-forward-backward,Synonym,1,2018-01-11 15:27:14 +0900,2018-01-11 15:27:14 +0900,0,1
+mizutani,perfect-forward-backward,Synonym,0,2018-01-11 15:27:17 +0900,2018-01-11 15:27:17 +0900,0,0
+mizutani,perfect-forward-backward,Synonym,1,2018-01-11 15:27:17 +0900,2018-01-11 15:27:17 +0900,1,1
+mizutani,perfect-forward-backward,Synonym,0,2018-01-11 15:27:55 +0900,2018-01-11 15:27:55 +0900,0,0
+mizutani,perfect-forward-backward,Synonym,1,2018-01-11 15:27:55 +0900,2018-01-11 15:27:57 +0900,82,1
+mizutani,perfect-forward-backward,Synonym,0,2018-01-11 15:28:00 +0900,2018-01-11 15:28:00 +0900,0,0
+mizutani,perfect-forward-backward,Synonym,1,2018-01-11 15:28:00 +0900,2018-01-11 15:28:00 +0900,0,1
+mizutani,perfect-forward-backward,Synonym,0,2018-01-11 15:28:05 +0900,2018-01-11 15:28:05 +0900,0,0
+mizutani,perfect-forward-backward,Synonym,1,2018-01-11 15:28:05 +0900,2018-01-11 15:28:06 +0900,38,1
+mizutani,perfect-forward-backward,related term,0,2018-01-11 15:28:32 +0900,2018-01-11 15:28:32 +0900,0,0
+mizutani,perfect-forward-backward,related term,1,2018-01-11 15:28:32 +0900,2018-01-11 15:28:32 +0900,14,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:29:33 +0900,2018-01-11 15:29:33 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:29:33 +0900,2018-01-11 15:29:34 +0900,8,0
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:29:57 +0900,2018-01-11 15:29:57 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:29:57 +0900,2018-01-11 15:29:58 +0900,6,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:30:24 +0900,2018-01-11 15:30:24 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:30:24 +0900,2018-01-11 15:30:25 +0900,21,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:31:11 +0900,2018-01-11 15:31:11 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:31:11 +0900,2018-01-11 15:31:11 +0900,6,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:31:50 +0900,2018-01-11 15:31:50 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:31:50 +0900,2018-01-11 15:31:50 +0900,1,0
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:31:58 +0900,2018-01-11 15:31:58 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:31:58 +0900,2018-01-11 15:31:58 +0900,21,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:32:04 +0900,2018-01-11 15:32:04 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:32:04 +0900,2018-01-11 15:32:07 +0900,107,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:32:44 +0900,2018-01-11 15:32:44 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:32:44 +0900,2018-01-11 15:32:45 +0900,0,0
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:32:47 +0900,2018-01-11 15:32:47 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:32:47 +0900,2018-01-11 15:32:51 +0900,99,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:33:08 +0900,2018-01-11 15:33:08 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:33:08 +0900,2018-01-11 15:33:09 +0900,21,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:33:18 +0900,2018-01-11 15:33:18 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:33:18 +0900,2018-01-11 15:33:22 +0900,107,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:34:41 +0900,2018-01-11 15:34:41 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:34:41 +0900,2018-01-11 15:34:43 +0900,106,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 15:36:32 +0900,2018-01-11 15:36:32 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 15:36:32 +0900,2018-01-11 15:36:35 +0900,107,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 16:01:17 +0900,2018-01-11 16:01:17 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 16:01:17 +0900,2018-01-11 16:01:18 +0900,21,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 16:01:50 +0900,2018-01-11 16:01:50 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 16:01:50 +0900,2018-01-11 16:01:51 +0900,0,0
+mizutani,perfect-forward-backward,search box,0,2018-01-11 16:01:56 +0900,2018-01-11 16:01:56 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 16:01:56 +0900,2018-01-11 16:01:59 +0900,107,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 16:02:45 +0900,2018-01-11 16:02:45 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 16:02:45 +0900,2018-01-11 16:02:46 +0900,21,1
+1234567,perfect-forward-backward,search box,0,2018-01-11 16:18:22 +0900,2018-01-11 16:18:22 +0900,0,0
+1234567,perfect-forward-backward,search box,1,2018-01-11 16:18:22 +0900,2018-01-11 16:18:23 +0900,21,1
+2124064,perfect-forward-backward,search box,0,2018-01-11 16:55:01 +0900,2018-01-11 16:55:01 +0900,0,0
+2124064,perfect-forward-backward,search box,1,2018-01-11 16:55:01 +0900,2018-01-11 16:55:02 +0900,1,0
+123,perfect-forward-backward,search box,0,2018-01-11 16:58:45 +0900,2018-01-11 16:58:45 +0900,0,0
+123,perfect-forward-backward,search box,1,2018-01-11 16:58:45 +0900,2018-01-11 16:58:50 +0900,0,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 17:14:10 +0900,2018-01-11 17:14:10 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 17:14:10 +0900,2018-01-11 17:14:11 +0900,21,1
+mizutani,perfect-forward-backward,Broader Term,0,2018-01-11 17:19:18 +0900,2018-01-11 17:19:18 +0900,0,0
+mizutani,perfect-forward-backward,Broader Term,1,2018-01-11 17:19:18 +0900,2018-01-11 17:19:27 +0900,443,1
+mizutani,perfect-forward-backward,Narrow Term,0,2018-01-11 17:19:52 +0900,2018-01-11 17:19:52 +0900,0,0
+mizutani,perfect-forward-backward,Narrow Term,1,2018-01-11 17:19:52 +0900,2018-01-11 17:19:53 +0900,19,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 17:20:07 +0900,2018-01-11 17:20:07 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 17:20:07 +0900,2018-01-11 17:20:08 +0900,21,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 17:23:20 +0900,2018-01-11 17:23:20 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 17:23:20 +0900,2018-01-11 17:23:21 +0900,21,1
+mizutani,perfect-forward-backward,Synonym,0,2018-01-11 17:24:44 +0900,2018-01-11 17:24:44 +0900,0,0
+mizutani,perfect-forward-backward,Synonym,1,2018-01-11 17:24:44 +0900,2018-01-11 17:24:44 +0900,0,1
+mizutani,perfect-forward-backward,Synonym,0,2018-01-11 17:24:49 +0900,2018-01-11 17:24:49 +0900,0,0
+mizutani,perfect-forward-backward,Synonym,1,2018-01-11 17:24:49 +0900,2018-01-11 17:24:49 +0900,0,1
+mizutani,perfect-forward-backward,Synonym,0,2018-01-11 17:24:52 +0900,2018-01-11 17:24:52 +0900,0,0
+mizutani,perfect-forward-backward,Synonym,1,2018-01-11 17:24:52 +0900,2018-01-11 17:24:52 +0900,0,1
+mizutani,perfect-forward-backward,Synonym,0,2018-01-11 17:24:53 +0900,2018-01-11 17:24:53 +0900,0,0
+mizutani,perfect-forward-backward,Synonym,1,2018-01-11 17:24:53 +0900,2018-01-11 17:24:53 +0900,0,1
+mizutani,perfect-forward-backward,search box,0,2018-01-11 17:25:26 +0900,2018-01-11 17:25:26 +0900,0,0
+mizutani,perfect-forward-backward,search box,0,2018-01-11 17:25:26 +0900,2018-01-11 17:25:26 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-11 17:25:26 +0900,2018-01-11 17:25:29 +0900,68,1
+mizutani,perfect-forward-backward,search box,1,2018-01-11 17:25:26 +0900,2018-01-11 17:25:30 +0900,68,1
+2124064,perfect-forward-backward,search box,0,2018-01-11 17:28:00 +0900,2018-01-11 17:28:00 +0900,0,0
+2124064,perfect-forward-backward,search box,1,2018-01-11 17:28:00 +0900,2018-01-11 17:28:01 +0900,21,1
+2124064,perfect-forward-backward,search box,0,2018-01-11 17:30:03 +0900,2018-01-11 17:30:03 +0900,0,0
+2124064,perfect-forward-backward,search box,1,2018-01-11 17:30:03 +0900,2018-01-11 17:30:10 +0900,450,1
+mizutani,perfect-forward-backward,search box,0,2018-01-12 09:07:18 +0900,2018-01-12 09:07:18 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-12 09:07:18 +0900,2018-01-12 09:07:19 +0900,38,1
+mizutani,perfect-forward-backward,search box,0,2018-01-12 09:18:01 +0900,2018-01-12 09:18:01 +0900,0,0
+mizutani,perfect-forward-backward,search box,1,2018-01-12 09:18:01 +0900,2018-01-12 09:18:02 +0900,19,1
+mizutest,perfect-forward-backward,search box,0,2018-01-12 09:37:10 +0900,2018-01-12 09:37:10 +0900,0,0
+mizutest,perfect-forward-backward,search box,1,2018-01-12 09:37:10 +0900,2018-01-12 09:37:11 +0900,0,0
+mizutest,perfect-forward-backward,search box,0,2018-01-12 09:37:25 +0900,2018-01-12 09:37:25 +0900,0,0
+mizutest,perfect-forward-backward,search box,1,2018-01-12 09:37:25 +0900,2018-01-12 09:37:26 +0900,3,1
+12345678,perfect-forward-backward,search box,0,2018-01-12 13:21:54 +0900,2018-01-12 13:21:54 +0900,0,0
+12345678,perfect-forward-backward,search box,1,2018-01-12 13:21:54 +0900,2018-01-12 13:22:01 +0900,279,1
+sasaki,perfect-forward-backward,search box,0,2018-01-12 13:22:51 +0900,2018-01-12 13:22:51 +0900,0,0
+sasaki,perfect-forward-backward,search box,1,2018-01-12 13:22:51 +0900,2018-01-12 13:22:52 +0900,21,0
+sasaki,perfect-forward-backward,search box,0,2018-01-12 13:38:58 +0900,2018-01-12 13:38:58 +0900,0,0
+sasaki,perfect-forward-backward,search box,1,2018-01-12 13:38:58 +0900,2018-01-12 13:38:59 +0900,1,0
+sasaki,perfect-forward-backward,search box,0,2018-01-12 13:39:28 +0900,2018-01-12 13:39:28 +0900,0,0
+sasaki,perfect-forward-backward,search box,1,2018-01-12 13:39:28 +0900,2018-01-12 13:39:29 +0900,4,0
+sasaki,perfect-forward-backward,search box,0,2018-01-12 13:40:33 +0900,2018-01-12 13:40:33 +0900,0,0
+sasaki,perfect-forward-backward,search box,1,2018-01-12 13:40:33 +0900,2018-01-12 13:40:34 +0900,21,0
+sasaki,perfect-forward-backward,search box,0,2018-01-12 13:40:41 +0900,2018-01-12 13:40:41 +0900,0,0
+sasaki,perfect-forward-backward,search box,1,2018-01-12 13:40:41 +0900,2018-01-12 13:40:50 +0900,355,0
+sasaki,perfect-forward-backward,Narrow Term,0,2018-01-12 13:41:03 +0900,2018-01-12 13:41:03 +0900,0,0
+sasaki,perfect-forward-backward,Narrow Term,1,2018-01-12 13:41:03 +0900,2018-01-12 13:41:07 +0900,74,1
+hirohito,perfect-forward-backward,search box,0,2018-01-12 14:48:21 +0900,2018-01-12 14:48:21 +0900,0,0
+hirohito,perfect-forward-backward,search box,1,2018-01-12 14:48:21 +0900,2018-01-12 14:48:23 +0900,5,0
+hirao,perfect-forward-backward,search box,0,2018-01-12 16:01:38 +0900,2018-01-12 16:01:38 +0900,0,0
+hirao,perfect-forward-backward,search box,1,2018-01-12 16:01:38 +0900,2018-01-12 16:01:39 +0900,1,1
+hirao,perfect-forward-backward,Synonym,0,2018-01-12 16:02:12 +0900,2018-01-12 16:02:12 +0900,0,0
+hirao,perfect-forward-backward,Synonym,1,2018-01-12 16:02:12 +0900,2018-01-12 16:02:13 +0900,2,1
+hirao,perfect-forward-backward,search box,0,2018-01-12 16:02:27 +0900,2018-01-12 16:02:27 +0900,0,0
+hirao,perfect-forward-backward,search box,1,2018-01-12 16:02:27 +0900,2018-01-12 16:02:28 +0900,6,1
+hirao,perfect-forward-backward,search box,0,2018-01-12 16:11:39 +0900,2018-01-12 16:11:39 +0900,0,0
+hirao,perfect-forward-backward,search box,1,2018-01-12 16:11:39 +0900,2018-01-12 16:11:39 +0900,0,0
+hirao,perfect-forward-backward,search box,0,2018-01-12 16:11:52 +0900,2018-01-12 16:11:52 +0900,0,0
+hirao,perfect-forward-backward,search box,1,2018-01-12 16:11:52 +0900,2018-01-12 16:11:55 +0900,105,0
+hirao,perfect-forward-backward,search box,0,2018-01-12 16:12:09 +0900,2018-01-12 16:12:09 +0900,0,0
+hirao,perfect-forward-backward,search box,1,2018-01-12 16:12:09 +0900,2018-01-12 16:12:12 +0900,122,0
+1234567,perfect-forward-backward,search box,0,2018-01-12 18:24:32 +0900,2018-01-12 18:24:32 +0900,0,0
+1234567,perfect-forward-backward,search box,1,2018-01-12 18:24:32 +0900,2018-01-12 18:24:33 +0900,21,1
